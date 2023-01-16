@@ -1,3 +1,3 @@
 # Empirical-analysis-of-supervised-learning-algorithms
 
-This repository contains the code and the dataset used for understanding the key behavioral and performance differences between classic supervised learning algorithms.
+This repository contains the code and the dataset used for understanding the key behavioral and performance differences between classic supervised learning algorithms. The experiment.py file contains the code responsible for performing certain experiments on each supervised learning algorithm and generating the associated results using matplotlib. The exrun file is a script file that kicks off experiments for all the algorithms for each dataset. The two datasets used in this experiment is the ionosphere and sonar csv dataset. The analysis contains a detailed breakdown of the findings.
