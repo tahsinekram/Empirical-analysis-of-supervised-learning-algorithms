@@ -1,0 +1,11 @@
+python3.7 experiments.py ion.csv target ~/ionoshpere model feature_0,target true random
+python3.7 experiments.py ion.csv target ~/ionoshpere validation feature_0,target true random
+python3.7 experiments.py ion.csv target ~/ionoshpere validation-num feature_0,target true random
+python3.7 experiments.py ion.csv target ~/ionoshpere learning feature_0,target true random
+python3.7 experiments.py ion.csv target ~/ionoshpere test feature_0,target true random
+
+python3.7 experiments.py sonar.csv target ~/sonar model target true random
+python3.7 experiments.py sonar.csv target ~/sonar validation target true random
+python3.7 experiments.py sonar.csv target ~/sonar validation-num target true random
+python3.7 experiments.py sonar.csv target ~/sonar learning target true random
+python3.7 experiments.py sonar.csv target ~/sonar test target true random

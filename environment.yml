@@ -1,0 +1,16 @@
+name: dec
+channels:
+  - anaconda
+  - defaults
+  - pip
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - pandas
+  - Pillow
+  - pyparsing
+  - python-dateutil
+  - pytz
+  - scikit-learn
+  - scipy
